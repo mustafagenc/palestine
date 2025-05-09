@@ -15,4 +15,5 @@ The best way to financially support Palestine is by donating directly to one of 
 
 **Other way to support**
 
+- [Put a banner on your website](https://github.com/mustafagenc/palestine)
 - [Boykot Dedektifi](https://boykotdedektifi.org/)
